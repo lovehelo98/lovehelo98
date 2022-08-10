@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Luv Uprety</h1>
 <h3 align="left">Software Engineer</h3>
 
-<p align="center"><a href="https://app.daily.dev/lovehelo98%22%3E<img src="https://github.com/lovehelo98/lovehelo98/blob/main/devcard.svg" width="40%" align = right alt="lovehelo98's Dev Card"/></a></p>
+<a href="https://app.daily.dev/lovehelo98%22%3E<img src="https://github.com/lovehelo98/lovehelo98/blob/main/devcard.svg" width="40%" align = right alt="lovehelo98's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
